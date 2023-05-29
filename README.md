@@ -4,4 +4,6 @@ First, the frequency of the person involved causing the accident was modeled. Se
 
 Calculate base premium via Streamlit app at https://team-pikachuuuu-bootcampproject-all-homeworkshosgeldiniz-rxjvy5.streamlit.app
 
+Ps: Paths may be different on scripts and may not be like in GitHub repository!
+
 ![image](https://github.com/gizembakan/AutoData-Base-Premium/assets/76500992/aadbc651-c0ce-4f12-8523-900b8f1bfdd9)
